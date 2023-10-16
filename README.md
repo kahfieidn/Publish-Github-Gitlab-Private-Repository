@@ -21,7 +21,6 @@ git remote add origin git@github.com:repo.git
 git branch -M main
 git push -uf origin main
 ```
-=================================================================================================
 
 # Khusus Untuk cPanel
 
