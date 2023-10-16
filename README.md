@@ -23,7 +23,7 @@ git push -uf origin main
 ```
 =================================================================================================
 
-## Khusus Untuk cPanel
+# Khusus Untuk cPanel
 
 Buka terminal,
 Lalu generate ssh key
